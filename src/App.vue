@@ -29,6 +29,9 @@
     </div>
   </div>
   <router-view />
+  <div class="footer">
+    <a href="https://github.com/tfells/creativeProject3">GITHUB LINK</a>
+  </div>
 </div>
 </template>
 
